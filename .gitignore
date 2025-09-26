@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.pyc
+*.h5
+*.pth
+*.pt
+models/
+datasets/
+data/
+*.zip
+*.rar
+logs/
